@@ -1,0 +1,942 @@
+
+
+
+
+.navbar div
+{
+  background-color: rgba(255, 255, 255, 0.64);
+  width: Fixed (1,440px);
+height:Hug (108px) ;
+display: flex;
+    
+
+   
+}
+
+.btn{
+  margin-left: 70%;
+ margin-top: 4%;
+ width:216px;
+ height: 44px;
+  border-radius: 32px;
+  border: 1px solid rgba(0, 12, 26, 1);;
+  padding:  24px, 10px, 24px;
+  color: rgba(0, 12, 26, 1);
+  background-color: rgba(255, 255, 255, 0.64);
+  
+}
+
+.btn:hover{
+  border-color: rgba(0, 120, 255, 1);
+  color:rgba(0, 120, 255, 1) ;
+  cursor: pointer;
+}
+
+.section1 h1
+{
+text-align: center;
+color: rgba(0, 12, 26, 1);
+ font-family: Montserrat;
+font-size: 48px;
+font-weight: 700;
+line-height: 72px;
+letter-spacing: 0em;
+}
+
+.section1 a{
+color:rgba(0, 120, 255, 1);
+}
+
+
+
+
+.section1 p{
+
+font-family: Open Sans;
+
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+
+.section1 button{
+  width: 408px;
+  height: 56px;
+  padding: 13px, 136px, 13px, 136px;
+  border-radius: 32px;
+  gap: 4px;
+  border: none;
+font-family:Montserrat ;
+font-size: 24px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+background-color: rgba(0, 120, 255, 1);
+  transform: translateY(-15%);
+  color: rgba(255, 255, 255, 1);
+  margin-left: 35%;
+}
+
+.button2:hover{
+  cursor: pointer;
+  box-shadow: 0 10px 10px 0 rgba(0, 119, 255, 0.47);
+  opacity: 1px;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.image2 {
+  width: 796px;
+height: 538px;
+top: 659px;
+left: 322px;
+margin-left: 7%;
+}
+
+.section2 h2{
+width: 839px;
+height: 48px;
+top: 1418px;
+left: 301px;
+color: rgba(0, 12, 26, 1);
+font-family: Montserrat;
+font-size: 32px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: 19%;
+margin-top: 10%;
+
+
+}
+
+.section4{
+  display: flex;
+  
+top: 1549px;
+left: 80px;
+margin-left: 6%;
+margin-top: 8%;
+color:  rgba(51, 51, 51, 1);
+
+
+}
+
+.section4 h2{
+  font-family: Montserrat;
+  margin-left: 3%;
+}
+
+.section5 p{
+  width: 733px;
+  height: 180px;
+ 
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 45%;
+margin-top: -17%;
+  
+}
+
+
+.section6 button{
+  background-color: rgba(0, 120, 255, 1) ;
+  
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+
+width: 233px;
+height: 61px;
+padding: 16.5px, 64px, 16.5px, 64px;
+border-radius: 32px;
+color: rgba(255, 255, 255, 1);
+gap: 4px;
+margin-left: 45%;
+border: none;
+}
+
+
+.section6 button:hover
+{
+  cursor: pointer;
+  box-shadow: 0 10px 10px 0 rgba(0, 119, 255, 0.47);
+  opacity: 1px;
+  
+  backface-visibility: hidden;
+}
+
+
+.section7 h2{
+  width: 1278px;
+height: 48px;
+
+font-family: Montserrat;
+font-size: 32px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: 15%;
+
+}
+
+#parg1 {
+ 
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+/*Box 1*/
+
+
+.box {
+width:297px;
+height: 239px;
+padding: 32px, 16px, 32px, 16px;
+border-radius: 8px;
+gap: 16px;
+box-shadow: -3px 4px 16px 0px rgba(0, 0, 0, 0.04);
+background:rgba(255, 255, 255, 1);
+display: -ms-flexbox;     /* TWEENER - IE 10 */
+      display: inline-flex; 
+padding: 1.4%;
+box-shadow: -3px 4px 16px 0px rgba(0, 0, 0, 0.04);
+
+}
+
+
+#box1 h4{
+  width: 265px;
+height: 23px;
+color: rgba(0, 12, 26, 1);
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 700;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: -65%;
+margin-top: 27%;
+}
+.box image h4{
+  width: Fill (265px);
+height: Hug (83px);
+gap: 8px;
+
+}
+
+#box1 p{
+
+  width: 265px;
+height: 76px;
+color: rgba(51, 51, 51, 1);
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: -60%;
+margin-top: 8%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#box1 h4 image{
+  width: Fill (265px);
+  height: Hug (83px);
+  gap: 8px;
+  color: rgba(51, 51, 51, 1);
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.section8 h3{
+  
+font-family: Montserrat;
+font-size: 32px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+#parg2{
+ 
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.box23 image{
+  width: 586px;
+height: 153px;
+padding: 32px;
+border-radius: 16px;
+border: 1px;
+gap: 16px;
+border: 1px solid rgba(239, 239, 239, 1);
+box-shadow: -2px 4px 32px 0px rgba(235, 235, 235, 0.6);
+
+}
+
+.section9 h2{
+  width: 1278px;
+height: 48px;
+
+font-family: Montserrat;
+font-size: 32px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: 10%;
+
+}
+
+
+#parag4{
+  width: 1278px;
+height: 44px;
+
+}
+
+
+#Button10 button{
+
+width: 233px;
+height: 61px;
+padding: 16.5px, 64px, 16.5px, 64px;
+border-radius: 32px;
+gap: 4px;
+background-color: rgba(0, 120, 255, 1);
+color: rgba(255, 255, 255, 1);
+
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: 40%;
+
+}
+#Button10 button:hover{
+  cursor: pointer;
+  box-shadow: 0 10px 10px 0 rgba(0, 119, 255, 0.47);
+  opacity: 1px;
+  
+  backface-visibility: hidden;
+}
+
+.sec11 h4{
+  width: 1278px;
+  height: 48px;
+ color: rgba(0, 12, 26, 1);
+font-family: Montserrat;
+font-size: 32px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: center;
+font-weight: bold;
+}
+
+.sec11 p{
+  width: 1278px;
+height: 44px;
+color: rgba(51, 51, 51, 1);
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+/*sec12*/
+
+.container{
+  width: 586px;
+  height: 153px;
+  padding: 32px;
+  border-radius: 16px;
+  border: 1px;
+  gap: 16px;
+  background-color: rgba(255, 255, 255, 1);
+  margin-left: 7%;
+  box-shadow: -2px 4px 32px 0px rgba(235, 235, 235, 0.6);
+
+}
+
+.container image{
+
+ 
+
+}
+
+
+.container h4{
+  width: 454px;
+  height: 32px;
+  font-family: Poppins;
+font-size: 24px;
+font-weight: 600;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(0, 12, 26, 1);
+margin-left: 17%;
+margin-top: -11%;
+}
+
+.container p{
+  width: 454px;
+  height: 24px;
+  font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: -0.02em;
+text-align: left;
+color: rgba(51, 51, 51, 1);
+margin-left: 17%;
+margin-top: -3.5%;
+}
+
+
+
+.section15 h4{
+  width: 1278px;
+  height: 48px;
+ color: rgba(0, 12, 26, 1);
+font-family: Montserrat;
+font-size: 32px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+.section15 p
+{
+width: 1278px;
+height: 44px;
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(51, 51, 51, 1);
+margin-top: -2%;
+}
+
+
+.section16 h4{
+
+  width: 682px;
+height: 48px;
+color: rgba(0, 12, 26, 1);
+font-family: Montserrat;
+font-size: 32px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: -20%;
+margin-left: 1%;
+}
+
+.section16 div{
+  display: flex;
+  align-items: center; 
+justify-content: space-between;
+
+}
+
+
+.section16 p{
+  width: 682px;
+  height: 216px;
+  color: rgba(51, 51, 51, 1);
+
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 50%;
+margin-top: -35%;
+
+}
+
+#Button13 button{
+
+  width: 233px;
+  height: 61px;
+  padding: 16.5px, 64px, 16.5px, 64px;
+  border-radius: 32px;
+  gap: 4px;
+  margin-top: 10%;
+background-color: rgba(0, 120, 255, 1);
+color: rgba(255, 255, 255, 1);
+margin-left: -190%;
+font-size: 18px;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+font-family: Montserrat;
+
+}
+
+
+#Button13 button:hover{
+  cursor: pointer;
+  box-shadow: 0 10px 10px 0 rgba(0, 119, 255, 0.47);
+  opacity: 1px;
+  border: none;
+  backface-visibility: hidden;
+}
+
+.con1 div{
+  width: 1,280px;
+  height: 575px;
+  gap: 64px;
+  background-color:rgba(255, 255, 255, 1);
+  
+
+}
+
+.con1 h4{
+  width: 1280px;
+  height: 48px;
+color: rgba(0, 12, 26, 1);
+font-family: Montserrat;
+font-size: 32px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: center;
+font-weight: bolder;
+}
+.im15 div{
+
+  width: 621px;
+height: 463px;
+gap: 29px;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+align-items: center;
+float: left;
+margin-top: -34%;
+
+}
+
+.im15 image{
+margin-top: 36px;
+margin-left: 215.5px;
+}
+
+.im15 h3{
+  width: 621px;
+  height: 48px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(0, 12, 26, 1);
+margin-top: -4%;
+margin-left: 1%;
+}
+
+.im15 p{
+
+  width: 621px;
+  height: 108px;
+  font-family: Open Sans;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(51, 51, 51, 1);
+margin-left: 9%;
+margin-top: -11%;
+
+}
+
+
+.butt11 {
+  width: 233px;
+height: 61px;
+padding: 16.5px, 64px, 16.5px, 64px;
+border-radius: 32px;
+gap: 4px;
+color: rgba(255, 255, 255, 1);
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+background-color:rgba(0, 120, 255, 1);
+margin-top: -33%;
+
+}
+
+button:hover{
+  cursor: pointer;
+  box-shadow: 0 10px 10px 0 rgba(0, 119, 255, 0.47);
+  opacity: 1px;
+  border: none;
+  backface-visibility: hidden;
+
+}
+
+.container11{
+  width: 1440px;
+height: 1719px;
+top: 8008px;
+background-color: aqua;
+}
+
+
+
+.container111 h2{
+width: 1040px;
+height: 48px;
+color: rgba(0, 12, 26, 1);
+font-family: Montserrat;
+font-size: 32px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: 8%;
+margin-top: 40%;
+}
+
+.container111 p{
+  width: 1040px;
+  height: 36px;
+  color:rgba(51, 51, 51, 1) ;
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: 8%;
+}
+
+
+.ui{
+
+  width: 1,117px;
+  height:564px;
+  top: 247px;
+  left: 162px;
+  padding: 50px, 44px, 50px, 44px;
+  border-radius: 16px;
+  gap: 10px;
+  background-color:rgba(255, 255, 255, 1);
+  box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.08);
+}
+
+.ui image{
+border-radius: 16px;
+}
+
+
+
+.but ul{
+margin-left: 45%;
+margin-top: 5%;
+display: flex;
+
+
+}
+
+.but  li{
+  list-style: none;
+  width: 60px;
+  height: 60px;
+  background:rgba(255, 255, 255, 1) ;
+  margin: 0 10px;
+  border-radius: 50%;
+  transition: .5s;
+
+
+}
+
+.but li:hover{
+background-color:rgba(0, 120, 255, 1) ;
+height: 55px;
+width: 55px;
+
+}
+
+.but li i{
+
+  margin-top: 41%;
+  margin-left: 41%;
+  color:rgba(0, 120, 255, 1) ;
+  width: 30px;
+height: 30px;
+top: 15px;
+left: 15px;
+padding: 6.25px, 5px, 6.25px, 5px;
+
+}
+
+.but li i:hover{
+  color: rgba(255, 255, 255, 1);
+}
+
+
+.con112 h4{
+  width: 1030px;
+height: 48px;
+color: rgba(0, 12, 26, 1);
+font-family: Montserrat;
+font-size: 32px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: 17%;
+
+
+}
+
+
+.con112 p{
+
+  width: 984px;
+  height: 72px;
+ color: rgba(51, 51, 51, 1);
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: 18%;
+  
+
+}
+
+
+.drop select{
+
+  width: 800px;
+  height: 68px;
+  padding: 20px, 45px, 20px, 45px;
+  gap: 10px;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0px 10px 15px 0px rgba(0, 120, 255, 0.35);
+  margin-left: 25%;
+  margin-top: 5%;
+}
+
+
+.drop option {
+
+  width:704px;
+  height: 117px;
+color: rgba(1, 1, 3, 1);
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+} 
+
+
+#language option{
+  width: 704px;
+  height: 117px;
+color: rgba(112, 111, 123, 1);
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.lo{
+  margin-left: 25%;
+}
+
+
+.lo h2{
+  width: 752px;
+  height: 48px;
+  font-family: Montserrat;
+font-size: 32px;
+font-weight: 800;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(0, 12, 26, 1);
+ margin-top: 27%; 
+}
+
+.lo p{
+  width: 752px;
+  height: 72px;
+color: rgba(51, 51, 51, 1);
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+
+.forms {
+
+  width: 904px;
+height: 424px;
+top: 342.5px;
+left: 268px;
+padding: 32px, 56px, 32px, 56px;
+border-radius: 16px;
+gap: 32px;
+background-color: rgba(255, 255, 255, 1);
+box-shadow: 0px 10px 44px 0px rgba(0, 0, 0, 0.1);
+margin-left: 19%;
+margin-top: 5%;
+}
+
+.form div{
+  width:380px;
+  height: 80px;
+  gap: 12px;
+ 
+
+}
+
+#b1 input{
+  width:380px;
+  height: 44px;
+  padding: 8px, 12px, 8px, 12px;
+  border-radius: 4px;
+  border: 1px;
+  gap: 10px;
+  background-color: rgba(252, 252, 252, 1);
+  border: 1px solid rgba(199, 199, 199, 1)
+
+}
+
+#f1 
+{
+  width: 45px;
+  height: 24px;
+  color: rgba(15, 20, 7, 1);
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: 5%;
+  
+
+}
+
+
+#fname{
+  width: 380px;
+  height:44px;
+  padding: 8px, 12px, 8px, 12px;
+  border-radius: 4px;
+  border: 1px;
+  gap: 10px;
+  background-color: rgba(252, 252, 252, 1);
+  border: 1px solid rgba(199, 199, 199, 1);
+padding-left: 1%;
+margin-left: 5%;
+}
+
+#by {
+
+  width: 408px;
+  height: 56px;
+  padding: 13px, 136px, 13px, 136px;
+  border-radius: 32px;
+  gap: 4px;
+  background-color: rgba(0, 120, 255, 1);
+  color: rgba(255, 255, 255, 1);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-left: 25%;
+
+}
